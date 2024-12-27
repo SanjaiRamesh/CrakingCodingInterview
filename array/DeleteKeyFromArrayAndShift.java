@@ -49,5 +49,6 @@ public class DeleteKeyFromArrayAndShift {
         int[] input1 = {2,3,5,5,7,11,11,11,13,13,13,12};
         System.out.println(Arrays.toString(input1));
         deleteFromArray(input1, 13);
+
     }
 }
